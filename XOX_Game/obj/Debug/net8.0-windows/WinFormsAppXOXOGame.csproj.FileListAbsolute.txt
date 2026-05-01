@@ -1,0 +1,51 @@
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\bin\Debug\net8.0-windows\WinFormsAppXOXOGame.exe
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\bin\Debug\net8.0-windows\WinFormsAppXOXOGame.deps.json
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\bin\Debug\net8.0-windows\WinFormsAppXOXOGame.runtimeconfig.json
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\bin\Debug\net8.0-windows\WinFormsAppXOXOGame.dll
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\bin\Debug\net8.0-windows\WinFormsAppXOXOGame.pdb
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.Properties.Resources.resources
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.AssemblyInfoInputs.cache
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.AssemblyInfo.cs
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.dll
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\obj\Debug\net8.0-windows\refint\WinFormsAppXOXOGame.dll
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.pdb
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.genruntimeconfig.cache
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\obj\Debug\net8.0-windows\ref\WinFormsAppXOXOGame.dll
+C:\OneDrive\Desktop\WinFormsAppXOXOGame\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.FormXox.resources
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\bin\Debug\net8.0-windows\WinFormsAppXOXOGame.exe
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\bin\Debug\net8.0-windows\WinFormsAppXOXOGame.deps.json
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\bin\Debug\net8.0-windows\WinFormsAppXOXOGame.runtimeconfig.json
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\bin\Debug\net8.0-windows\WinFormsAppXOXOGame.dll
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\bin\Debug\net8.0-windows\WinFormsAppXOXOGame.pdb
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.FormXox.resources
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.Properties.Resources.resources
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.AssemblyInfoInputs.cache
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.AssemblyInfo.cs
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.dll
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\obj\Debug\net8.0-windows\refint\WinFormsAppXOXOGame.dll
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.pdb
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.genruntimeconfig.cache
+C:\OneDrive\Desktop\test codu\c# deneme\XOXO_Game\obj\Debug\net8.0-windows\ref\WinFormsAppXOXOGame.dll
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\bin\Debug\net8.0-windows\WinFormsAppXOXOGame.exe
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\bin\Debug\net8.0-windows\WinFormsAppXOXOGame.deps.json
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\bin\Debug\net8.0-windows\WinFormsAppXOXOGame.runtimeconfig.json
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\bin\Debug\net8.0-windows\WinFormsAppXOXOGame.dll
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\bin\Debug\net8.0-windows\WinFormsAppXOXOGame.pdb
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.FormXox.resources
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.Properties.Resources.resources
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.AssemblyInfoInputs.cache
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.AssemblyInfo.cs
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.dll
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\obj\Debug\net8.0-windows\refint\WinFormsAppXOXOGame.dll
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.pdb
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\obj\Debug\net8.0-windows\WinFormsAppXOXOGame.genruntimeconfig.cache
+C:\OneDrive\Desktop\OKUL BELGE\test codu\C#\XOX_Game\obj\Debug\net8.0-windows\ref\WinFormsAppXOXOGame.dll
